@@ -1,0 +1,22 @@
+{
+  "name": "manuelcanuldev",
+  "version": "1.0.0",
+  "description": "Portafolio Manuel Canul",
+  "main": "index.html",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManuelCanulDev/manuelcanuldev.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManuelCanulDev/manuelcanuldev.github.io/issues"
+  },
+  "homepage": "https://github.com/ManuelCanulDev/manuelcanuldev.github.io#readme",
+  "dependencies": {
+    "node-sass": "^6.0.0"
+  }
+}
